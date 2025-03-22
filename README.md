@@ -1,0 +1,2 @@
+# Network-Traffic-Logs---Canadian-Cybersecurity-Dataset-for-Threat-Detection
+This repository provides a cleaned and labeled network traffic dataset derived from logs collected by the Canadian Institute for Cybersecurity (University of New Brunswick). Designed for use in cybersecurity research, the dataset includes detailed metadata on network connections and is labeled for benign vs. malicious behavior.
